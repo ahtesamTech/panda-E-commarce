@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+.logo{
+    width: 60px;
+    height: 60px;
+}
+.colorr{
+    background-color: #feeae9;
+}
+.carousel-item{
+    padding: 20px 50px;
+}
+.carousel{
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, #ff589B 0%, #ff136F 100%);
+    color: aliceblue;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    padding:  9px 20px;
+}
